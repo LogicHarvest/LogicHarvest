@@ -15,6 +15,6 @@
 
 <div align="center">
   <a href="https://github.com/logicharvest/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicHarvest&layout=default" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicHarvest&layout=compact&langs_count=8" alt="Top Languages">
   </a>
 </div>
